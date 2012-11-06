@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name of the application. [CHAR LIMIT=35] -->
+    <string name="app_label">Input Devices for Japanese</string>
+
+    <!-- Keyboard layouts label, used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
+    <string name="keyboard_layouts_label">Japanese keyboard</string>
+
+    <!-- Japanese OADG keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_oadg_label">Japanese 106/109 (OADG)</string>
+
+    <!-- Japanese OADG (switch Ctrl-Caps) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_switch_cc_label">Japanese 106/109 (Ctrl-Caps)</string>
+
+    <!-- Japanese OADG (switch Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_switch_ek_label">Japanese 106/109 (Esc-半/全)</string>
+
+    <!-- Japanese OADG (switch Ctrl-Caps, Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_switch_cc_ek_label">Japanese 106/109 (C-C, E-半/全)</string>
+
+    <!-- Japanese OADG (Win to HOME) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_win2home_label">Japanese 106/109 (Win -&gt; HOME)</string>
+</resources>

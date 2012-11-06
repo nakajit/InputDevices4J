@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:name="keyboard_layout_japanese_oadg"
+            android:label="@string/keyboard_layout_japanese_oadg_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_oadg" />
+    <keyboard-layout android:name="keyboard_layout_japanese_switch_cc"
+            android:label="@string/keyboard_layout_japanese_switch_cc_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_switch_cc" />
+    <keyboard-layout android:name="keyboard_layout_japanese_switch_ek"
+            android:label="@string/keyboard_layout_japanese_switch_ek_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_switch_ek" />
+    <keyboard-layout android:name="keyboard_layout_japanese_switch_cc_ek"
+            android:label="@string/keyboard_layout_japanese_switch_cc_ek_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_switch_cc_ek" />
+    <keyboard-layout android:name="keyboard_layout_japanese_win2home"
+            android:label="@string/keyboard_layout_japanese_win2home_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_win2home" />
+</keyboard-layouts>
