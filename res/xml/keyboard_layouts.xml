@@ -15,4 +15,19 @@
     <keyboard-layout android:name="keyboard_layout_japanese_win2home"
             android:label="@string/keyboard_layout_japanese_win2home_label"
             android:keyboardLayout="@raw/keyboard_layout_japanese_win2home" />
+    <keyboard-layout android:name="keyboard_layout_japanese_ime"
+            android:label="@string/keyboard_layout_japanese_ime_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_ime" />
+    <keyboard-layout android:name="keyboard_layout_japanese_ime_cc"
+            android:label="@string/keyboard_layout_japanese_ime_cc_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_ime_cc" />
+    <keyboard-layout android:name="keyboard_layout_japanese_ime_ek"
+            android:label="@string/keyboard_layout_japanese_ime_ek_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_ime_ek" />
+    <keyboard-layout android:name="keyboard_layout_japanese_ime_cc_ek"
+            android:label="@string/keyboard_layout_japanese_ime_cc_ek_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_ime_cc_ek" />
+    <keyboard-layout android:name="keyboard_layout_japanese_ime_w2h"
+            android:label="@string/keyboard_layout_japanese_ime_w2h_label"
+            android:keyboardLayout="@raw/keyboard_layout_japanese_ime_w2h" />
 </keyboard-layouts>

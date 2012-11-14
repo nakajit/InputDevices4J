@@ -10,14 +10,29 @@
     <string name="keyboard_layout_japanese_oadg_label">日本語 106/109 (OADG)</string>
 
     <!-- Japanese OADG (switch Ctrl-Caps) keyboard layout label. [CHAR LIMIT=35] -->
-    <string name="keyboard_layout_japanese_switch_cc_label">日本語 106/109 (Ctrl-Caps)</string>
+    <string name="keyboard_layout_japanese_switch_cc_label">日本語 106/109 (OADG, Ctrl-Caps)</string>
 
     <!-- Japanese OADG (switch Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
-    <string name="keyboard_layout_japanese_switch_ek_label">日本語 106/109 (Esc-半/全)</string>
+    <string name="keyboard_layout_japanese_switch_ek_label">日本語 106/109 (OADG, Esc-半/全)</string>
 
     <!-- Japanese OADG (switch Ctrl-Caps, Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
-    <string name="keyboard_layout_japanese_switch_cc_ek_label">日本語 106/109 (C-C, E-半/全)</string>
+    <string name="keyboard_layout_japanese_switch_cc_ek_label">日本語 106/109 (OADG, C-C, E-半/全)</string>
 
     <!-- Japanese OADG (Win to HOME) keyboard layout label. [CHAR LIMIT=35] -->
-    <string name="keyboard_layout_japanese_win2home_label">日本語 106/109 (Win -&gt; HOME)</string>
+    <string name="keyboard_layout_japanese_win2home_label">日本語 106/109 (OADG, Win-&gt;HOME)</string>
+
+    <!-- Japanese OADG (for IME) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_ime_label">日本語 106/109 (IME用)</string>
+
+    <!-- Japanese OADG (for IME, switch Ctrl-Caps) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_ime_cc_label">日本語 106/109 (IME用, Ctrl-Caps)</string>
+
+    <!-- Japanese OADG (for IME, switch Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_ime_ek_label">日本語 106/109 (IME用, Esc-半/全)</string>
+
+    <!-- Japanese OADG (for IME, switch Ctrl-Caps, Esc-Kanji) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_ime_cc_ek_label">日本語 106/109 (IME用, C-C, E-H/Z)</string>
+
+    <!-- Japanese OADG (for IME, Win to HOME) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_japanese_ime_w2h_label">日本語 106/109 (IME用, Win-&gt;HOME)</string>
 </resources>
